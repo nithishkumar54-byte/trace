@@ -1,0 +1,6 @@
+{
+  "name": "TraceIQ",
+  "description": "Multi-role production traceability dashboard with start-work validation, station routing flow, real-time alert dispatching, defect pareto charts, PPC job scheduling, and comprehensive tracking logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
